@@ -10,77 +10,59 @@ weight: 1
 menu: main
 ---
 
-Click [here](https://drive.google.com/file/d/1K-Of-gZXnPJIZW1S00NaZSe5EHeAI5uJ/view?usp=sharing) to download the resume.
+Click [here](https://drive.google.com/file/d/1stYqHcFFyh_dpmg7vXEKVtPcE_8ouacw/view?usp=sharing) to download the resume.
 
 <!--more-->
 
+Here's the markdown version of the résumé:
+
 # 📄 Summary
-Highly motivated and detail-oriented professional aspiring to excel as a DevOps Engineer. Dedicated to streamlining workflows, fostering seamless collaboration between development and operations teams, and ensuring error-free, efficient processes. Eager to contribute analytical skills and problem-solving abilities to drive continuous improvement and deliver optimal results in a DevOps environment.
+To secure a position as an entry‑level data scientist or intern where I can apply my analytical and programming skills to develop data‑driven solutions that contribute to business growth and success. I am eager to learn and work collaboratively in a dynamic team environment to apply my knowledge of programming, data analysis, and machine learning to solve complex business problems.
 
 # 💼 Work Experience
 
 ### Fiverr  
 **Freelance, Online**  
-**DEVOPS ENGINEER**  
-_September 2021 - Present_
+**ALGORiTHMiC DEVELOPER**  
+_September 2021 ‑ Present_
 
-- 🔄 Automated web app deployment with GitHub Actions, ensuring reliability.
-- 🛠️ Implemented Git version control for efficient collaboration within the team.
-- 🌐 Developed web apps, increasing user engagement by 30% and boosting conversion rates by 20%.
-- 🚀 Designed CI/CD pipelines (Jenkins, Travis CI), reducing deployment time by 40%.
-- 📝 Scripted routine tasks (Bash), cutting manual effort by 20%.
-- 🔒 Enforced robust security measures, passing all security audits.
-- ☁️ Deployed scalable infrastructure (AWS, Google Cloud), reducing costs by 30%.
-- 📚 Stayed updated on emerging technologies, enhancing project outcomes.
+- 🖥️ Developing and coding custom trading algorithms using Pine Script based on client requirements.
+- 📈 Creating technical indicators and overlays in Pine Script to identify trends, support, and resistance levels.
+- 🤝 Collaborating with clients to understand their trading goals and objectives and provide expert advice and recommendations.
+- 🔄 Maintaining and updating existing trading algorithms to ensure their effectiveness and efficiency.
+- 📊 Providing detailed reports and analysis of trading strategies to clients, including trade signals, profit and loss analysis, and performance metrics.
+- ⭐ Offering exceptional customer service and support to clients, including prompt responses to inquiries and timely resolution of issues.
 
-### SysCraft Limited  
-**Nairobi, Kenya**  
-**DOCUMENT PREPARATION**  
-_November 2022 - February 2023_
+# 🛠️ Skills
 
-- 📑 Sorted and prepared private documents for scanning and document preparation.
-- 🗃️ Followed production procedures for internal documentation and tracking.
-- 🧼 Maintained a clean work environment following imaging center guidelines.
-- 🖨️ Created and scanned computer batches, ensuring document clarity meets client approval.
-- ⏲️ Worked at a sustained pace to meet production rates without compromising quality.
-- 💡 Strong problem-solving ability, adaptable to change and extended project assignments.
-- 🧑‍💻 Worked independently with minimal supervision.
+### TECHNiCAL SKiLLS
+- **Programming:** Python (Pandas, Numpy, Matplotlib), Pine Script, SQL.
+- **Supervised Learning:** Linear and logistic regressions, decision trees, support vector machines (SVM).
+- **Unsupervised Learning:** K‑means clustering, Principal component analysis.
+- **Pine Script:** Creating and modifying trading indicators and strategies.
+- **Beginner knowledge in deep learning with Python.**
 
-### Nyeri Water and Sanitation Company  
-**Nyeri, Kenya**  
-**DATA ANALYST**  
-_June 2019 - December 2019_
+### SOFT SKiLLS
+- 🗣️ Clear communication and teamwork.
+- ⏰ Time management.
+- 🔍 Attention to detail.
+- 🔄 Adaptability.
 
-- 📊 Achieved 99% efficiency improvement by developing Tableau and Power BI dashboards and reports.
-- 🖥️ Installed, configured, and maintained Oracle, MySQL, and SQL Server DBMS.
-- 🔧 Administered MS SQL Server 2008/2012, handling upgrades, security, and configuration.
-- 📋 Documented installation and configuration procedures for Windows and Linux environments.
-- 🔍 Monitored infrastructure performance with CloudWatch and Datadog.
-- 💾 Automated full/differential/transactional backups and implemented recovery strategies.
-- ⚡ Increased query efficiency by 99% through optimized index creation.
+# 📚 Projects
 
-# 💻 Skills
-
-**Languages**  
-HTML, CSS, JavaScript, GoLang, Kotlin, Bash, Python, SQL
-
-**Technologies**  
-Git, GitHub, Docker, Android SDK, Linux
+### YOUTUBE CHANNEL
+- 🎥 I’m currently using YouTube as a means to keep myself accountable by posting videos such as coding tutorials and videos related to technology and finance.
+- 💡 Engaged in self‑directed learning by creating YouTube videos and YouTube shorts with an emphasis on developing proficiency in video filming, editing, and storytelling.
 
 # 🎓 Education
 
-### ALX (African Leadership X)  
-**Nairobi, Kenya 🇰🇪**  
-**AWS CERTIFIED CLOUD PRACTITIONER ☁️**  
-**AWS CERTIFIED SOLUTIONS ARCHITECT ☁️**  
-_October 2023 - May 2024_
+### Catholic University of Eastern Africa  
+**Bogani East Road, Langata**  
+**Bchelor of Science In Acturial Science 🎓**  
+_May 2019 ‑ Current_
 
-### DEKUT (Dedan Kimathi University of Technology)  
-**BACHELOR OF SCIENCE IN BUSINESS INFORMATION TECHNOLOGY 🎓**  
-_May 2015 - June 2020_
-
----
-
-**ERIC MOSES NGIGI · RÉSUMÉ**  
-_Nyeri, Kenya 🇰🇪_  
-_July 18, 2023_
+- Intermediate programming.
+- Probability and Statistics.
+- Linear Algebra.
+- Financial Mathematics.
+- Calculus 1‑3.

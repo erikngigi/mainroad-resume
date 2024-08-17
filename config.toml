@@ -1,4 +1,4 @@
-title = "Eric Ngigi"
+title = "Lenny Kiruthu"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
@@ -6,13 +6,13 @@ disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Params.author]
-  name = "Eric Ngigi"
+  name = "Lenny Kiruthu"
   bio = "Who Cares"
-  avatar = "images/profile/profile-image.png"
+  avatar = ""
 
 [Params]
-  description = "Eric" # Description of your site
-  copyright = "Eric Ngigi"
+  description = "Lenny" # Description of your site
+  copyright = "Lenny Kiruthu"
   opengraph = true
   schema = true
   twitter_cards = false
@@ -26,9 +26,9 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   customJS = ["js/glightbox.js"] # Include custom JS files
 
 [Params.logo]
-  image = "images/logo/logo_02.png"
-  title = "Eric Ngigi"
-  subtitle = "Engineered for Efficiency: Cloud Automation Expertise" # Logo subtitle
+  image = "images/logo/finance_dollar.png"
+  title = "Lenny Kiruthu"
+  subtitle = "Algo Trading Consultant" # Logo subtitle
 
 [Params.sidebar]
   home = "right" # Configure layout for home page
@@ -43,7 +43,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   tags_counter = false # Enable counter for each tag in "Tags" widget
 
 [Params.style.vars]
-  highlightColor = "#228B22"
+  highlightColor = "#960018"
   fontFamilyPrimary = "Roboto, Helvetica, Arial, sans-serif"
   fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
 
@@ -51,14 +51,14 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   visibility = ["list", "post"] # Control thumbnail visibility
 
 [Author] # Used in authorbox
-  name = "Eric Ngigi"
-  bio = "Eric, a certified AWS Solution Architect, brings 4 years of expertise in cloud and DevOps technologies. Proficient in Linux administration, his mastery lies in Terraform for Infrastructure as Code (IaC) development, enabling scalable cloud deployments. Eric shares his insights and experiences through his blog, [EricNgigi](https://ericngigi.com)."
+  name = "Lenny Kiruthu"
+  bio = "As an Algo Trading Consultant, I specialize in designing, optimizing, and deploying algorithmic trading strategies that leverage data-driven insights to maximize market opportunities. With a strong foundation in quantitative analysis and a deep understanding of market dynamics, I work closely with clients to develop customized trading algorithms tailored to their unique financial goals. My expertise in scripting languages, including Python and Pine Script, allows me to create robust, high-frequency trading systems that ensure precision and efficiency. I am committed to staying at the forefront of technological advancements in the trading industry, continuously refining strategies to adapt to evolving market conditions and deliver superior results. Whether you're a seasoned trader looking to enhance your strategies or a firm seeking to implement cutting-edge algorithmic solutions, I provide the guidance and technical expertise needed to succeed in the fast-paced world of algorithmic trading."
   avatar = "img/profile-picture.png"
 
 [Params.widgets.social]
   cached = true # activate cache if true
   # Enable parts of social widget
-  linkedin = "erik-ngigi"
-  github = "ErikNgigi"
-  email = "ericmosesngigi@gmail.com"
-  youtube = "UCF3GCqR1MYFdf-Jv9srtjDA"
+  # linkedin = "erik-ngigi"
+  # github = "ErikNgigi"
+  email = "kiruthulenny@gmail.com"
+  youtube = "@lennykiruthu"
